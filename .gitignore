@@ -140,14 +140,14 @@
 
 !/home/
 /home/*
-!/home/isucon/
-/home/isucon/go/
-/home/isucon/local/
-/home/isucon/pprof/
-/home/isucon/initial_data/
-/home/isucon/tmp/
-/home/isucon/webapp/sql/admin/
-/home/isucon/.*
+!/isucon/
+/isucon/go/
+/isucon/local/
+/isucon/pprof/
+/isucon/initial_data/
+/isucon/tmp/
+/isucon/webapp/sql/admin/
+/isucon/.*
 
 !/result/
 
